@@ -1,27 +1,26 @@
 # iOS-Survey-App
 app created in XCode, Swift, Storyboard for rating a hotel services
 ## Project Description
-<img src="https://github.com/lea-leonard/iOS-Quiz-App/blob/master/launchSrceen.png" height="250px" align="right" alt=""></a>
-Test me - is a quiz application where user can check his/her performance on different technologies like Java, iOS , Swift, Android etc to know improvement area. 
+<img src="https://github.com/lea-leonard/iOS-Survey-App/blob/main/launchSrceen.png" height="250px" align="right" alt=""></a>
+Resort Feedback app collects the feedback from the customers about their stay experience with the resort to make improvements in the services. Each user first needs to sign up to provide feedback. This is my first application using iOS technologies. 
 
 ## Technologies Used
-* Xcode IDE v12.0
+* Xcode IDE v11.0
 * iOS Architecture iOS 13
 * Swift 4
 
 ## Features
-* Animation fo graphics
-* Core Data storage for app data
-* Facebook integration with app login function
+* Easy navigation of using the app.
+* Core Data storage for login function
+* Consistent design of application.
 
 To-do list:
-* Add a launch screen
-* Expand functionality and UI of a user dashboard
+* Add animation to launch screen
+* Improve functionality of the UITableview for the 'survey list'
 
 ## Getting Started
-This repository requires Apple macOS 13 and Apple's Xcode 12. You can
-download Xcode from https://developer.apple.com/download/more/ . All requirements
-for data storage and process are available through the link. Must have an Apple login.
+This repository requires Apple macOS 10 and Apple's Xcode 11. You can
+download Xcode from https://developer.apple.com/download/more/ . All requirements for data storage and process are available through the link. Must have an Apple login.
 
 Git repository clone using command line interface type
 
