@@ -26,7 +26,7 @@ Git repository clone using command line interface type
 
 git clone [copy the below link]
 ```
-https://github.com/lea-leonard/iOS-Quiz-App.git
+https://github.com/lea-leonard/iOS-Survey-App
 ```
 Other: To use other ways to clone repository; On this repository main branch there is a green dropdown box that says 'Code'. Click the dropdown menu to see other ways to clone in GitHub.
 
